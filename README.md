@@ -9,7 +9,7 @@
 
 This project displays Boston Airbnb listings in an interactive, responsive web application. It loads data from a CSV file using AJAX (JavaScript fetch API) and dynamically creates listing cards with detailed information about each property.
 
-**Live Demo:** [https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+**Live Demo:** [https://kunjjoshi.github.io/SelfAssessment/](https://kunjjoshi.github.io/SelfAssessment/)
 
 ---
 
